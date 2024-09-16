@@ -1,5 +1,7 @@
-main.aux
-main.log
-main.pdf
-main.synctex.gz
+*.aux
+*.log
+*.pdf
+*.bbl
+*.blg
+*.synctex.gz
 
